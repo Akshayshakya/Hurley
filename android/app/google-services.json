@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402769016057",
+    "project_id": "hurley-b99c4",
+    "storage_bucket": "hurley-b99c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402769016057:android:96c605c0456f8cfc571e28",
+        "android_client_info": {
+          "package_name": "com.loyality.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402769016057-r06qc2m926v1gp7uhs3hb8drng30k7cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjFdOJqFEyfldkcZePHLtcNV35_i1TcL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402769016057-r06qc2m926v1gp7uhs3hb8drng30k7cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
